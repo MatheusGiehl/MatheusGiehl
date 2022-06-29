@@ -4,7 +4,6 @@
 
 - 🙋‍ Eu sou o Matheus.
 - 🚀 Tenho 18 anos.
-- 📝 Acabei de me formar no ensino médio.
 - 💼 Trabalho como auxiliar administrativo em um escritório de contabilidade, desde 2020.
 - 📚 Estudo Desenvolvimento Web, buscando me aperfeiçoar em Front-end.  
 
