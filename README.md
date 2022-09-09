@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0C9A87&size=30&center=true&vCenter=true&width=1000&lines=Hello+World!;Mi+name+is+Matheus+Giehl.;I'm+19+years+old.;I+study+web+development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0C9A87&size=30&center=true&vCenter=true&width=1000&lines=Hello+World!;Mi+name+is+Matheus.;I'm+19+years+old.;I+study+web+development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 # About me
 
