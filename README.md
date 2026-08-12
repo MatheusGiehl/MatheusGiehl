@@ -2,6 +2,7 @@
 
 #### About me 🙋🏼
 * 🧾 I have worked in the administrative sector of companies for 4 years.
+* 💻 I currently work as a home automation technician
 * 🧑🏼‍💻 I'm moving into programming, specifically as a backend/mobile dev.
 * 📚 Currently learning Javascript.
 * 🐶 I love dogs, listening to music, talking and not least, I love games.
